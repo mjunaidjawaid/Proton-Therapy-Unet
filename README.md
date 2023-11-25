@@ -1,6 +1,6 @@
 # Proton-Therapy-Unet
-A Unet for denoising the monte carlo simulation of proton therapy 
-network Network_elements_instance.py contains blocks for the Unet 
+A Unet for denoising the monte carlo simulation of proton therapy. 
+network Network_elements_instance.py contains blocks for the Unet. 
 In Network_for_experiments.py the blocks are pieced together the form a Unet, data pipeline is also included in the file
 and training takes place here
 
